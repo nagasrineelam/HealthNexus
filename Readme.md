@@ -2,7 +2,6 @@
 
 HealthNexus is a healthcare-focused platform (placeholder description) designed to connect patients, providers, and administrators through an extensible, secure, and privacy-first architecture. This repository contains the code, documentation, and automation needed to run and extend the HealthNexus system.
 
-> Note: Replace placeholders in this README (e.g., commands, env variables, and examples) with actual values from your codebase and CI configuration.
 
 ---
 
